@@ -18,6 +18,8 @@ In addition, this project will include:
 
 ### Wireframes
 
+![wireframe](https://github.com/w-chun/Keyboard-Revolution/blob/master/wireframe.png)
+
 ### Architecture and Technologies
 
 This project will be implemented with the following technologies:
